@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# MATLAB
+*.asv
+*.autosave
+slprj/
+
+# MATLAB Compiler output (build artifacts)
+BionicRFRadar/
+*.exe
+
+# Data exported from the app
+CSI_VitalSigns_Data.csv
+
+# Arduino / OS / editor
+build/
+.DS_Store
+Thumbs.db
+.vscode/
